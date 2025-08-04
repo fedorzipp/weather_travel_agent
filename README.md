@@ -34,7 +34,7 @@ weather_travel_agent/
 ### 1. Клонувати репозиторій
 
 ```bash
-git clone https://github.com/yourusername/weather_travel_agent.git
+git clone https://github.com/fedorzipp/weather_travel_agent.git
 cd weather_travel_agent
 ```
 
